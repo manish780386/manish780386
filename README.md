@@ -1,151 +1,188 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:58a6ff&height=220&section=header&text=Manish%20Dange&fontSize=62&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Database%20Engineer%20%7C%20Cyber%20Security&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
+  <!-- Animated Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:58a6ff&height=200&section=header&text=Manish%20Dange&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=From%20File%20Systems%20to%20Full%20Stack%20—%20Building%20from%20Scratch.&descAlignY=55&descSize=18" width="100%"/>
 
-<a href="https://www.linkedin.com/in/manish-dange-2a03b6312/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:dangemanish35@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://portfolio-manish-danges-projects.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-58a6ff?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://leetcode.com/dangemanish">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Database+Engine+Builder+%40+NeevDB;Cyber+Security+Undergraduate;Published+on+PyPI+%26+VS+Code+Marketplace;Pitching+NeevDB+as+a+Hosted+DBaaS+%40+UdbhavX+2.0" alt="Typing animation" />
+
+  <!-- Social Badges -->
+  <p>
+    <a href="https://github.com/manish780386?tab=followers">
+      <img src="https://img.shields.io/github/followers/manish780386?logo=github&style=for-the-badge&color=58A6FF&labelColor=0d1117" alt="GitHub followers" />
+    </a>
+    <a href="https://github.com/manish780386?tab=repositories">
+      <img src="https://img.shields.io/github/stars/manish780386?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=F59E0B&labelColor=0d1117" alt="Total stars" />
+    </a>
+  </p>
+
+  <!-- Quick Links -->
+  <p>
+    <a href="https://portfolio-manish-danges-projects.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/manish-dange-2a03b6312/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://leetcode.com/dangemanish">
+      <img src="https://img.shields.io/badge/LeetCode-dangemanish-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    </a>
+    <a href="https://pypi.org/project/neevdb/">
+      <img src="https://img.shields.io/badge/PyPI-neevdb-3775A9?style=for-the-badge&logo=pypi&logoColor=white" />
+    </a>
+    <a href="mailto:dangemanish35@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
 
 </div>
 
-<br/>
-
-## 🧑‍💻 About Me
-
-```javascript
-const manish = {
-  name        : "Manish Dange",
-  role        : "Full Stack Developer & Database Engineer",
-  education   : "B.Tech CSE (Cyber Security), SVVV Indore 🎓",
-  location    : "Indore, India 🇮🇳",
-  publishedOn : ["PyPI", "GitHub"],
-  builds      : ["Databases from scratch", "Full-stack platforms", "Dev tools"],
-  currentFocus: ["React.js", "Django REST", "FastAPI", "PostgreSQL", "System Design"],
-  interests   : ["Database Internals", "Web Dev", "AI/ML", "Cyber Security", "Open Source"],
-  funFact     : "Turns chai ☕ into code 💻 and edge cases into features 😄"
-};
-```
-
 ---
 
-## 🚀 Featured Work
+## 🎯 About Me
 
-### 🗄️ [NeevDB](https://github.com/manish780386/NeevDB) — *"neev" = foundation*
-A lightweight, file-based database engine written **from scratch in pure Python** — published on **PyPI**.
-- SQL-like query engine (`SELECT` / `WHERE` / `ORDER BY` / `LIMIT`) over JSON file storage
-- CRUD engine, interactive CLI shell, and a browser dashboard
-- REST API layer via FastAPI (`pip install neevdb[server]`)
-- Full test suite + docs/playground site
-- Currently being pitched as a hosted DBaaS at **UdbhavX 2.0** (SAIT Indore)
+```yaml
+name: Manish Dange
+role: Full Stack Developer & Database Engineer
+education: B.Tech CSE (Cyber Security) @ SVVV, Indore
+location: Indore, India
+status: "Compiling foundations, shipping products..."
 
-### 🍲 Mitti Ka Swad
-A full-stack **Indian heritage food discovery & ordering platform** (Zomato-inspired, focused on traditional regional foods).
-- **Backend:** Django (7 apps), JWT auth, Razorpay payments, role-based access control
-- **Frontend:** React with Hindi + English voice search, Framer Motion animations, full vendor dashboard
+specializations:
+  - File-based Database Engines (built from scratch)
+  - Full Stack Web Development (React + Django/FastAPI)
+  - Developer Tooling (VS Code Extensions)
+  - Cyber Security Fundamentals
 
-### 🌐 [Portfolio Website](https://portfolio-manish-danges-projects.vercel.app/)
-Multi-file React app with a Codolio-style collapsible sidebar, dark theme, particle effects, and live-synced coding profile stats (GitHub, LeetCode, CodeChef, Codeforces, GFG, HackerRank). Also showcases two published VS Code extensions — **JSON Tree Visualizer Pro** and **Operator Colorizer Pro**.
+currently_building: "NeevDB — pitching as a hosted DBaaS at UdbhavX 2.0"
+learning: "Next.js · Django REST Framework · FastAPI · PostgreSQL · System Design"
+```
 
-### 📊 DS & Statistics Learning App
-An interactive React app teaching Data Science & Statistics fundamentals (Linear Algebra, Probability, Hypothesis Testing) — delivered in Hinglish with embedded Python examples.
-
-> 💡 More projects on the way — ⭐ this profile to stay updated!
+- 🔭 **Currently:** Building **NeevDB**, a file-based database engine from scratch, published on PyPI
+- 🧠 **Also shipped:** Two VS Code extensions — **JSON Tree Visualizer Pro** & **Operator Colorizer Pro**
+- 🏆 **Pitching:** NeevDB as a hosted DBaaS at **UdbhavX 2.0** (SAIT Indore)
+- ⚡ **Fun Fact:** Wrote a SQL-like query engine (`SELECT`/`WHERE`/`ORDER BY`/`LIMIT`) over plain JSON files, from first principles
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,html,css" />
+</p>
 
-**Backend & APIs**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,tailwind,bootstrap" />
+  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" height="32"/>
+</p>
 
-**Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+### Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=django,fastapi,flask,nodejs" />
+  <img src="https://img.shields.io/badge/REST%20API-FF6B6B?style=for-the-badge&logo=swagger&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" height="32"/>
+</p>
 
-**Cloud, DevOps & Tools**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white)
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,mongodb" />
+  <img src="https://img.shields.io/badge/NeevDB-58A6FF?style=for-the-badge&logo=pypi&logoColor=white" height="32"/>
+</p>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=manish780386&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=e6edf3"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish780386&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3"/>
-
-<img src="https://streak-stats.demolab.com?user=manish780386&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=f78166&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" width="70%"/>
-
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Manish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=manish780386&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f78166&area=true&hide_border=true&area_color=1a2a4a)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+### Tools & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma" />
+</p>
 
 ---
 
-## 🌱 Roadmap
-
-```
-├── ✅ HTML, CSS, JavaScript, Python ..... Done
-├── ✅ Built & published NeevDB on PyPI .. Done
-├── ✅ Shipped 2 VS Code extensions ...... Done
-├── 🔄 React.js & Next.js ................ In Progress
-├── 🔄 Django REST & FastAPI ............. In Progress
-├── 🔄 PostgreSQL & System Design ........ Learning
-├── 🎯 Pitch NeevDB as a hosted DBaaS (UdbhavX 2.0)
-├── 🎯 Contribute to Open Source
-└── 🎯 Land first dev internship 🚀
-```
-
----
-
-## 📫 Connect With Me
+## 📊 GitHub Analytics
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/dangemanish35%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dangemanish35@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Manish_Dange-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-dange-2a03b6312/)
-[![GitHub](https://img.shields.io/badge/manish780386-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manish780386/)
-[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-58a6ff?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-manish-danges-projects.vercel.app/)
+  <!-- Profile Summary -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manish780386&theme=github_dark" width="100%" alt="Profile Details" />
+
+  <!-- Stats Grid -->
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=manish780386&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=e6edf3" height="180em" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish780386&layout=compact&theme=github_dark&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3" height="180em" alt="Top Languages" />
+  </p>
+
+  <!-- Streak Stats -->
+  <p>
+    <img src="https://streak-stats.demolab.com?user=manish780386&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=f78166&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" />
+  </p>
+
+  <!-- Trophies -->
+  <p>
+    <img src="https://github-profile-trophy.vercel.app/?username=manish780386&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Trophies" />
+  </p>
+
+  <!-- Contribution Graph -->
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=manish780386&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f78166&area=true&hide_border=true&area_color=1a2a4a" width="100%"/>
+  </a>
 
 </div>
 
+---
+
+## 🏆 Competitive Programming
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1a1f35,100:0d1117&height=120&section=footer&animation=fadeIn" width="100%"/>
+  <a href="https://leetcode.com/dangemanish">
+    <img src="https://leetcard.jacoblin.cool/dangemanish?theme=dark&font=JetBrains%20Mono&ext=contest&border=0&radius=20" alt="LeetCode Stats" />
+  </a>
 
-### *"Code. Learn. Build. Repeat."* 🚀
+  <br><br>
+
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/106%2B-Problems%20Solved-58A6FF?style=for-the-badge&logo=leetcode&logoColor=white" height="25"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/PyPI-Published%20Package-3775A9?style=for-the-badge&logo=pypi&logoColor=white" height="25"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/VS%20Code-2%20Extensions%20Shipped-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="25"/>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Tech Stack | Description |
+|---------|-----------|-------------|
+| **[NeevDB](https://github.com/manish780386/NeevDB)** | Python, FastAPI, JSON storage | File-based database engine from scratch — SQL-like query engine, CLI shell, REST API & browser dashboard, published on PyPI |
+| **Mitti Ka Swad** | Django, React, JWT, Razorpay | Full-stack Indian heritage food discovery & ordering platform with Hindi/English voice search and a vendor dashboard |
+| **[Portfolio Website](https://portfolio-manish-danges-projects.vercel.app/)** | React, Three.js, Tailwind, Framer Motion | Multi-file React app with live-synced coding profile stats and published-tool showcase |
+| **DS & Statistics Learning App** | React, Python | Interactive Hinglish learning app covering Linear Algebra, Probability & Hypothesis Testing with embedded code examples |
+| **JSON Tree Visualizer Pro** | VS Code Extension API | Published VS Code extension for visualizing JSON structures as a tree |
+| **Operator Colorizer Pro** | VS Code Extension API | Published VS Code extension for syntax-highlighting operators |
+
+---
+
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0d1117&height=120&section=footer&text=Let's%20Build%20Something%20from%20Scratch&fontSize=24&fontColor=fff&animation=fadeIn" width="100%"/>
+
+  <br>
+
+  <i>🌱 Code. Learn. Build. Repeat. 🌱</i>
+
+  <br><br>
+
+  <a href="https://portfolio-manish-danges-projects.vercel.app/">
+    <img src="https://img.shields.io/badge/View%20Full%20Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 
 </div>
