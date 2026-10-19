@@ -14,6 +14,7 @@
   <a href="https://github.com/manish780386?tab=repositories">
     <img src="https://img.shields.io/github/stars/manish780386?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=F59E0B&labelColor=0d1117" alt="Total stars" />
   </a>
+  <img src="https://img.shields.io/badge/Profile%20Views-%F0%9F%91%80%201.2k%2B-blueviolet?style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
 </p>
 
 <!-- Quick Links -->
@@ -61,7 +62,6 @@ currently_building:
   - "Production CRMs & marketplaces with Razorpay integration"
 
 stack: "React.js · Django · PostgreSQL · Redis · Docker · AWS"
-```
 
 - 🔭 **Full Stack:** Building production-grade apps — hyperlocal platforms, AI travel planners, food marketplaces
 - 🛡️ **Cyber Security:** OWASP Top 10, Network Security, Penetration Testing basics, Cisco NetAcad certified
